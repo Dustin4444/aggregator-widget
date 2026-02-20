@@ -64,7 +64,6 @@ This is the current list of blockchains supported:
 | ETHEREUM   | eth       |
 | BNB        | bnb       |
 | POLYGON    | polygon   |
-| FANTOM     | fantom    |
 | CRONOS     | cronos    |
 | ARBITRUM   | arbitrum  |
 | AVALANCHE  | avalanche |
